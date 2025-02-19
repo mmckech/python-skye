@@ -12,4 +12,4 @@ Contains a simple class used to demonstrate, er, classes.
 Demonstrates that classes define properties and behaviour, and instances of classed get theirown set of properties.
 
 ### function.py
-Functions without any class.So, normal British people. 
+Functions without any class.So, normal British people.
